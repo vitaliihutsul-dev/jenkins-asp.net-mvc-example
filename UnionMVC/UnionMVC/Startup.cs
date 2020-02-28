@@ -31,7 +31,7 @@ namespace UnionMVC
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            ///////eeeewwww
+            ///////eeeewwwwwww
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
